@@ -15,7 +15,7 @@ def hello_world():
     This function is called when a user accesses the root URL.
     It returns a simple "Hello, World!" string.
     """
-    return 'Hello, World!'
+    return 'Hello, 3RI!'
 
 # Check if the script is executed directly (not imported)
 # This is standard Python practice to make code reusable.
